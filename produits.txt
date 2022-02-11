@@ -1,0 +1,6 @@
+cho // chocolat noir // 23 // 15
+ana // ananas // 81 // 16
+cit // citrons // 67 // 17
+pom // pommes // 29 // 18
+tho // thon // 40 // 19
+oeu // oeufs // 75 // 20
